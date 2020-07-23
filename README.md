@@ -1,1 +1,1 @@
-# Intro_Computational_Physics
+# Intro to Computational Physics
