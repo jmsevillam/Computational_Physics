@@ -3,6 +3,10 @@
 ## Motivation
 ## Contents
   1. Classical Mechanics
+      - Harmonic Oscillator
+      - Pendullum
+      - Three body problem
+      - Normal Modes: Boundary conditions
   1. Dynamical Systems
       - Integrable Systems
       - Maps
@@ -10,8 +14,6 @@
         - Strange Attractors
         - Bifurcation
         - Poincaré Sections
-  1. Electrostatics
-      - Poisson Equation
   1. Statistical Mechanics
       - Ising Model
         - Stabilisation: Single Temperature
@@ -19,7 +21,27 @@
         - Phase Transition: Magnetic Field
         - Hysteresis Cycle
       - Molecular Dynamics
+  1. Electrostatics
+      - Poisson Equation
+  1. Optics
+      - Focal Distance
   1. Data Analysis: Working with Real Experimental Data
+      - Regression: Least square analysis
+          - Linear
+          - Non linear and initialization
+              - GNUplot
+              - Python
+          - With error
+       - Signal processing
+          - Fourier transforms
+          - Fast Fourier transforms
+          - Sound
+            - Lowpass and Highpass filtering
+            - Reducing noise
+          - Images
+            - Counting objects
+            - Finding Edges
+            - 
   1. Introduction to Programming
       - C++
       - GNUplot
@@ -27,7 +49,23 @@
       - Bash
       - Makefiles
       - Special Topics
+        - Libraries
+          - Vector operations
+          - Complex numbers operations
+        - Animations
+          - C++/GNUplot
+          - Python/Bash
+        - Errors & Simulation
+          - Derivation and errors
+          - Integration and error
+          - Symplectic Methods
+          - Simple ordinary differential equations
+        - Random numbers
+          - Monte Carlo Methods: Integration
+          - Importance Sampling
         - Parallelizing
           - OpenMP
           - MPI
+          
+
 ## Contact
