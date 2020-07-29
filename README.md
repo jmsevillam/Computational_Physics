@@ -7,6 +7,7 @@
       - Pendullum
       - Three body problem
       - Normal Modes: Boundary conditions
+      - Real Projectile: Air friction and Rotation
   1. Dynamical Systems
       - Integrable Systems
       - Maps
