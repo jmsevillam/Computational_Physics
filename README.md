@@ -48,7 +48,7 @@
           - Images
             - Counting objects
             - Finding Edges
-            - 
+            - Following spots
   1. Introduction to Programming
       - C++
       - GNUplot
