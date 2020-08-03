@@ -30,8 +30,8 @@
         - Finite Size Effects
   1. Electrostatics
       - Poisson Equation
-  1. Optics
-      - Focal Distance
+      - Optics
+          - Focal Distance
   1. Data Analysis: Working with Real Experimental Data
       - Regression: Least square analysis
           - Linear
