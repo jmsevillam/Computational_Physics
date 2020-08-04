@@ -1,4 +1,4 @@
-# Intro to Computational Physics
+# Computational Physics
 
 ## Motivation
 ## Contents
