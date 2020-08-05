@@ -8,7 +8,7 @@
       - Three (Many) body problem
       - Normal Modes: Boundary conditions
       - Real Projectile: Air friction and Rotation
-      - Distributions: Liouville Equation[link](https://github.com/jmsevillam/Computational_Physics/tree/master/Classical_Mechanics/Liouville)
+      - Distributions: Liouville Equation [link](https://github.com/jmsevillam/Computational_Physics/tree/master/Classical_Mechanics/Liouville)
   1. Dynamical Systems
       - Integrable Systems
       - Maps
@@ -18,7 +18,7 @@
           - Lorentz [link](https://github.com/jmsevillam/Computational_Physics/tree/master/Dynamical%20Systems/Strange%20Attractors/Lorentz%20System)
       - Bifurcation
       - Poincaré Sections
-  1. Statistical Mechanics[link](https://github.com/jmsevillam/Computational_Physics/tree/master/Statistical%20Mechanics)
+  1. Statistical Mechanics [link](https://github.com/jmsevillam/Computational_Physics/tree/master/Statistical%20Mechanics)
       - Ising Model [link](https://github.com/jmsevillam/Computational_Physics/tree/master/Statistical%20Mechanics/ising)
         - Stabilisation: Single Temperature
         - Phase Transition: Temperature
