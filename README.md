@@ -4,10 +4,11 @@
 ## Contents
   1. Classical Mechanics
       - Harmonic Oscillator
-      - Pendullum
-      - Three body problem
+      - Pendullum: Non Linear, Dumped and Forced.
+      - Three (Many) body problem
       - Normal Modes: Boundary conditions
       - Real Projectile: Air friction and Rotation
+      - Distributions: Liouville Equation
   1. Dynamical Systems
       - Integrable Systems
       - Maps
