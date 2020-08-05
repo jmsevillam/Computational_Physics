@@ -28,7 +28,7 @@
         - Radial Distribution Function
         - Structure Factor
         - Finite Size Effects
-  1. Electrostatics
+  1. Electrodynamics
       - Poisson Equation
       - Optics
           - Focal Distance
